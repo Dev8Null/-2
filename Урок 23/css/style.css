@@ -1,0 +1,8 @@
+.block {
+    background: url(../images/shreksophone_500x500.jpg) center no-repeat, linear-gradient(#faf366, #ae6f17);
+}
+.block2 {
+    background-image: url(../images/shrekonimo.jpg), radial-gradient( #ae6f17, #faf366);
+    background-repeat: no-repeat;
+    background-position: center;
+}
