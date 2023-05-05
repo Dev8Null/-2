@@ -1,0 +1,11 @@
+.block {
+    height: 100px;
+    width: 100px;
+    border-radius: 25px;
+    border: 1px solid black;
+    background: linear-gradient(45deg, rgb(224, 105, 224) 30%, blue);
+    position: fixed;
+    bottom: 100px;
+    right: 50px;
+    left: 50%;
+}
